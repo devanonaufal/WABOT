@@ -8,10 +8,10 @@ global.namabot = 'SPHIXBOT'
 global.namaowner = 'Devano Naufal'
 
 //—————「 Setting Owner 」—————//
-global.owner = '6282234940310'
+global.owner = '6285156057586'
 global.nomorlu = '6285174192540'
-global.ownernomer = [""]
-global.premium = ['']
+global.ownernomer = ["6285156057586"]
+global.premium = ['6285156057586']
 
 //—————「 Set Wm 」—————//
 global.packname = 'SPHIXBOT'
@@ -41,7 +41,7 @@ global.limitawal = {
 
 //—————「 Set Image 」—————//
 global.imageurl = 'https://i.pinimg.com/236x/75/d8/8e/75d88ec4982f34ce10009c9024934be8.jpg'
-global.isLink = `https://youtube.com/@shinysebastianchannel`
+global.isLink = `https://anoncyberteam.or.id/`
 global.thumb = fs.readFileSync('./media/thumb.jpg')
 
 //—————「 Batas Akhir 」—————//
